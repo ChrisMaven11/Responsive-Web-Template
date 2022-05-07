@@ -7,4 +7,4 @@ A full minimalistic website template, which can be used and modified easily
 2. Click Index.html
 3. And thats it! You have downloaded the template
 # Usage
-```Open index.html with your favourite IDE, and edit the main contents...Other contents can be edited the same by opening the correct pages in your IDE.```
+Open index.html with your favourite IDE, and edit the main contents...Other contents can be edited the same by opening the correct pages in your IDE.
